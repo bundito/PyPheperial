@@ -1,6 +1,10 @@
+# FORK INFO #
 
+Attempt to take this personal project and make it generic enough for others to easily use. Ideally, installable via pip would be quite handy.
 
+Thanks to gooday2die for the work done so far.
 
+----
 
 # PyPheperial
 A program written in python for syncing all the Peripherals connected to computer using SDKs.
